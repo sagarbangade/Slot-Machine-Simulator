@@ -4,6 +4,10 @@
 The **Slot Machine Simulator** is an engaging and interactive web application that mimics the functionality of a classic slot machine. Built with HTML, CSS, and JavaScript, the project offers a fun way to learn and demonstrate basic concepts of web development, including DOM manipulation, event handling, and styling.
 
 ---
+## Preview
+https://sagarbangade.github.io/Slot-Machine-Simulator/
+
+---
 
 ## Features
 
@@ -57,11 +61,6 @@ The **Slot Machine Simulator** is an engaging and interactive web application th
    - No match = 0 points.
 3. **Display Results:** The points and a message are dynamically updated on the screen.
 4. **Reset Game:** Clicking the "Reset" button sets the reels, points, and message back to their initial states.
-
----
-
-## Preview
-![Slot Machine Simulator](screenshot.png)
 
 ---
 
